@@ -1,9 +1,9 @@
 # console-racer
 
-![Console Racer](http://cazares.github.io/images/racer.png)
+![Console Racer](https://cazares.github.io/images/console-racer-quick-demo-gif.gif)
 
-A small commandline racing game. Currently only works in C++, but I want to port this to C for some C practice.
+A small command-line racing game
 
-## usage
+## Usage (g++ command possibly optional):
 	g++ -lncurses console-racer.cpp
 	./a.out 
